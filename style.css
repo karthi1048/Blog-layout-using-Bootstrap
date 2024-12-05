@@ -1,0 +1,6 @@
+/* padding applied for post container 
+   Use it only if you applied fixed-top class in header */
+
+.center-box {
+    padding-top: 150px;
+}
