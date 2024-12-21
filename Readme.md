@@ -30,7 +30,11 @@ The project consists of:
 
 1. Open the project in a browser to explore the layout.  
 2. Customize the content (e.g., replace the placeholder text, images, and links) in the `HTML` file.  
-3. Modify the `CSS` file for additional styling or layout changes.  
+3. Modify the `CSS` file for additional styling or layout changes.
+
+## Screenshots
+<img src="Blog-1.png" alt="Blog layout reference 1">
+<img src="Blog-2.png" alt="Blog layout reference 2">
 
 ## File Structure  
 
